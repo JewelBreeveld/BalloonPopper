@@ -1,5 +1,5 @@
-import fakereducer from "./fakereducer";
+import games from "./games";
 
 export default {
-  fakereducer
+  games
 };
